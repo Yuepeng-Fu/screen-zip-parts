@@ -1,0 +1,2 @@
+screen_part_* filter=lfs diff=lfs merge=lfs -text
+screen_part_* filter=lfs diff=lfs merge=lfs -text
